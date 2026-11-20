@@ -66,9 +66,13 @@ The [Iris dataset](https://archive.ics.uci.edu/dataset/53/iris) contains 150 sam
 | R² score | 0.76 |
 
 <p align="center">
-  <img src="images/cost_vs_iterations.png" width="45%" alt="Cost vs iterations">
-  <img src="images/regression_line.png" width="45%" alt="Regression line">
+<img width="900" height="600" alt="cost_vs_iterations" src="https://github.com/user-attachments/assets/5ec9c933-13c3-441f-80cb-3bd31a089fb9" />
 </p>
+<p align="center">
+<img width="900" height="600" alt="regression_line" src="https://github.com/user-attachments/assets/4f58c139-d841-4a42-9562-4329993338f1" />
+</p>
+
+
 
 ---
 
@@ -97,10 +101,12 @@ The [Iris dataset](https://archive.ics.uci.edu/dataset/53/iris) contains 150 sam
 > 💡 Setosa is separated perfectly. Versicolor and Virginica partially overlap, which is expected since they are close in feature space. The silhouette score is actually highest at k = 2, because Setosa is far from the other two species.
 
 <p align="center">
-  <img src="images/choose_k.png" width="90%" alt="Choosing k">
+  <img width="1500" height="600" alt="choose_k" src="https://github.com/user-attachments/assets/eb0910c5-e40e-4308-aa3e-f982bbbb169b" />
+
 </p>
 <p align="center">
-  <img src="images/clusters_vs_species.png" width="90%" alt="Clusters vs species">
+<img width="1650" height="600" alt="clusters_vs_species" src="https://github.com/user-attachments/assets/2d209130-64fe-4679-ae22-66f29c68be15" />
+
 </p>
 
 ---
