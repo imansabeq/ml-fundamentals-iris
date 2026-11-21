@@ -126,7 +126,7 @@ ml-fundamentals-iris/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/ml-fundamentals-iris.git
+git clone https://github.com/imansabeq/ml-fundamentals-iris.git
 cd ml-fundamentals-iris
 
 # 2. Install dependencies
