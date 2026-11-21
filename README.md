@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c" alt="Matplotlib">
 </p>
 
----
+-------------------------------------------------------------------------------------
 
 ## 📑 Table of Contents
 
